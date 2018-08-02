@@ -1,0 +1,7 @@
+11/4 19:06:56.236  Connecting to Battle.net...
+11/4 19:06:56.236      querying gateway reg.d2cn.net
+11/4 19:06:56.290      searching for the fastest server
+11/4 19:06:56.304      Connected to server 114.55.96.239
+11/4 19:06:56.314      accessing accounts
+11/4 19:06:56.344      Checking for the latest version
+11/4 19:06:56.475      Connected to Battle.net
